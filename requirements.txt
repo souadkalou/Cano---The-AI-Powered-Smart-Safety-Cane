@@ -1,0 +1,19 @@
+Core ML & CV
+•	torch, torchvision, torchaudio → models & CNN
+•	ultralytics → YOLOv8
+•	opencv-python → camera + image processing
+
+EDA & ML Tasks
+•	numpy / pandas → data loading & metadata
+•	matplotlib, seaborn → EDA charts
+•	scikit-learn → regression, clustering, evaluation
+
+Image & UI
+•	pillow → image loading
+•	streamlit → main UI application
+
+Audio
+•	pyttsx3 → text-to-speech local engine
+
+Utility
+•	tqdm → progress bars during preprocessing & training
